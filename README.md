@@ -37,11 +37,9 @@ The OLS results show associations, not causal effects. Wage distributions are hi
 1. Obtain the authorized CPS-ASEC and ACS extracts from IPUMS USA and place `cps_00001.csv` and `usa_00001.csv` in the working directory.
 2. Create and activate a Python environment.
 3. Install dependencies:
-
    ```bash
    python -m pip install -r requirements.txt
    ```
-
 4. Open and run `CISC7204-Assgn01-MC631173-PreliminaryProjectProposal.ipynb` from top to bottom.
 5. The notebook generates the intermediate files `acs_2024_occ_avg_wage.csv` and `merged_cps_acs.csv`, then saves the visualizations in the project directory.
 
