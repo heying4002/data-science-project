@@ -1,6 +1,6 @@
 # My Data Science Portfolio
 ## About Me
-Name: 【你的全名】
+Name: HE YING MC631173
 Short introduction: I am a student taking CISC7204 Data Science and Data Visualization. This portfolio presents my exploratory regression analysis of wage determinants.
 
 ## Technical Skills
